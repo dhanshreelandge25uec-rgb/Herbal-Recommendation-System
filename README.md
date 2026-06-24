@@ -1,0 +1,2 @@
+The Herbal Recommendation System is a web-based application that helps users find suitable herbal remedies based on their symptoms or health concerns. The system recommends medicinal herbs and natural products that may help support wellness. Users enter symptoms, and the system suggests appropriate herbs along with their benefits and usage information.
+The project aims to promote awareness of herbal medicine and provide quick access to herbal recommendations through a simple and user-friendly interface.
