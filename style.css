@@ -1,0 +1,72 @@
+body{
+margin:0;
+font-family:Arial;
+background:#f8f8f8;
+}
+
+header{
+background:#146b1e;
+padding:15px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.logo{
+color:white;
+font-size:22px;
+font-weight:bold;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:10px;
+}
+
+.hero{
+display:flex;
+padding:60px;
+background:#fff;
+}
+
+.hero .left{
+width:50%;
+}
+
+.hero .right{
+width:50%;
+}
+
+.hero img{
+width:100%;
+}
+
+.btn{
+background:#146b1e;
+padding:12px 20px;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.products{
+padding:40px;
+}
+
+.cards{
+display:flex;
+gap:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+border-radius:10px;
+width:300px;
+box-shadow:0 0 10px #ddd;
+}
+
+.card img{
+width:100%;
+}
